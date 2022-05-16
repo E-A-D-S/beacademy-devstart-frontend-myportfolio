@@ -10,13 +10,15 @@ Projeto realizado no dia 12 de maio de 2022, tal projeto foi desenvolvido em liv
 
 ## Autores
 
-- [@lnmont](https://www.github.com/lnmont)😄
+- [@E-A-D-S](https://www.github.com/E-A-D-S)😄
 
 
 ## Libs externas
 
 [ScrollRevel](https://scrollrevealjs.org/) 🚀
 
-## Projeto UI no Figma
+## Projeto UI no Figma 
+
+Projeto de modelo do profesor Luan Monteiro
 
 [UI Figma](https://www.figma.com/file/cORQUmT2QxFhV1IFQRmVeL/Portf%C3%B3lio-be.academy?node-id=12%3A6) 🔥
